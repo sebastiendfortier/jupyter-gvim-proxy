@@ -146,7 +146,7 @@ def setup_gvim():
         'launcher_entry': {
             'enabled': True,
             'icon_path': os.path.join(HERE, 'icons/gvim-logo.svg'),
-            'title': 'Gvim Desktop',
+            'title': 'Gvim',
             'path_info': path_info,
         },
     }
